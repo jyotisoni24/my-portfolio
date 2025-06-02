@@ -43,7 +43,7 @@ export default function Home() {
               View Projects
             </a>
             <a
-              href="/resume.pdf"
+              href="/My_Resume.pdf"
               download
               className="px-8 py-4 text-lg md:text-xl border border-gray-500 text-white hover:bg-gray-700 rounded-full font-semibold transition duration-300"
             >
