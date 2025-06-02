@@ -33,7 +33,7 @@ export default function About () {
         >
           <h2 className="text-4xl font-bold mb-4 text-white">About Me</h2>
           <p className="text-gray-400 mb-8">
-            I'm Jyoti Soni, currently pursuing my engineering degree. I'm deeply passionate about software development, especially front-end web technologies like React and Next.js. I love creating responsive, accessible, and interactive UIs.
+            I&rsquo;m Jyoti Soni, currently pursuing my engineering degree. I&rsquo;m deeply passionate about software development, especially front-end web technologies like React and Next.js. I love creating responsive, accessible, and interactive UIs.
           </p>
 
           <div className="bg-gray-800 p-6 rounded-xl shadow-lg">
