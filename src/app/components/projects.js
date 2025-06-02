@@ -33,7 +33,7 @@ const projectData = [
 
 `,
     githubLink: "https://github.com/jyotisoni24/my-portfolio",
-    projectLink: "https://jyotisoni24.vercel.app/",
+    projectLink: "https://my-portfolio-oouy.vercel.app/",
   },
 ];
 
